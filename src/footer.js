@@ -6,7 +6,7 @@ export const Footer = () => {
           <a href="#">Help line</a>
         </li>
         <li>
-          Contact us: <a href="#"> 000000000</a>
+          Contact us: <a href="#"> 0000000</a>
         </li>
         <li>
           <a href="#">Download App</a>
